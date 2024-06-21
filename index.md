@@ -3,9 +3,7 @@ title: Blog
 ---
 En este blog iré subiendo links de páginas y recursos de electricidad, electrónica, programación, soporte Ti, matematicas entre otros que ha sido de ayuda.
 
----
-title: Cursos de electricidad
----
+<h1> Cursos de electricidad </h1>
 
 En La pagina de Khan academy podrás encontrar recursos e información de:
 
