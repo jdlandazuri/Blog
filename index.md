@@ -7,7 +7,7 @@ En este blog iré subiendo links de páginas y recursos de electricidad, electr�
 
 En La pagina de Khan academy podrás encontrar recursos e información de:
 
-  * Introducción a ala ingeniería eléctrica.
+  * Introducción a la ingeniería eléctrica.
   * Análisis de circuitos.
   * Amplificadores.
   * Dispositivos semiconductores.
