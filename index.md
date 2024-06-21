@@ -15,5 +15,6 @@ En La pagina de Khan academy podrás encontrar recursos e información de:
   * Señales y sistemas.
   * Robotica casera.
 
-Para más información has click en el sigueinte enlace: 
+Para más información has click en el sigueinte enlace:
+
 <link src: https://es.khanacademy.org/science/electrical-engineering> KhanAcademy </link>
