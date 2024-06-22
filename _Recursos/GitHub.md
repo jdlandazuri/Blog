@@ -1,4 +1,4 @@
-<title> Habilidades Github </title>
+title: Habilidades Github
 <hr />
 
 <p> 
